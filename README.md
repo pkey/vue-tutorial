@@ -1,5 +1,7 @@
 # test
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pkey/vue-tutorial.svg)](https://greenkeeper.io/)
+
 ## Project setup
 ```
 yarn install
